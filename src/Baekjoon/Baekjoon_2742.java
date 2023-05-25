@@ -1,8 +1,8 @@
-package src;
+package src.Baekjoon;
 
 import java.util.Scanner;
 
-public class Algorithm_2742 {
+public class Baekjoon_2742 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
