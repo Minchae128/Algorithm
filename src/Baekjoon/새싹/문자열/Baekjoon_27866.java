@@ -1,4 +1,4 @@
-package src.Baekjoon;
+package src.Baekjoon.새싹.문자열;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package src.Baekjoon;
+package src.Baekjoon.새싹.빠른입출력;
 
 import java.io.*;
 import java.util.StringTokenizer;

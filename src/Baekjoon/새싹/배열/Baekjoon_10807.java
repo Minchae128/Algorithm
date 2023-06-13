@@ -1,4 +1,4 @@
-package src.Baekjoon;
+package src.Baekjoon.새싹.배열;
 
 import java.util.Scanner;
 
