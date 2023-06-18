@@ -1,0 +1,17 @@
+package src.Baekjoon.새싹.반복;
+
+import java.util.Scanner;
+
+public class Baekjoon_10872 {
+    public static void main(String[] args) {
+
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        int cnt = 1;
+
+        for (int i = 1; i <= n; i++) {
+            cnt *= i;
+        }
+        System.out.println(cnt);
+    }
+}
