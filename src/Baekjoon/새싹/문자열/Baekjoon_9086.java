@@ -1,4 +1,4 @@
-package src.Baekjoon.Bronze.Bronze5;
+package src.Baekjoon.새싹.문자열;
 
 import java.util.Scanner;
 
