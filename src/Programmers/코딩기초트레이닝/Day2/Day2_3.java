@@ -1,5 +1,5 @@
 package src.Programmers.코딩기초트레이닝.Day2;
-
+//문자열 돌리기
 import java.util.Scanner;
 
 public class Day2_3 {

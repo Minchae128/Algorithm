@@ -1,5 +1,5 @@
 package src.Programmers.코딩기초트레이닝.Day2;
-
+//홀짝 구분하기
 import java.util.Scanner;
 
 public class Day2_4 {
