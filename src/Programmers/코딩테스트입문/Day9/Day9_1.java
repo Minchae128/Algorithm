@@ -1,6 +1,6 @@
-package src.Programmers.코딩테스트입문.Day8;
+package src.Programmers.코딩테스트입문.Day9;
 
-public class Day8_5 {
+public class Day9_1 {
     public int solution(int hp) {
         int answer = 0;
          answer += (hp /5);
