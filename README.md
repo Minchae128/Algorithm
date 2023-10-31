@@ -24,3 +24,4 @@
 
 - 기초 알고리즘과 파이썬 코딩 입문 - Subinnium (안수빈님)
 - 이것이 취업을 위한 코딩테스트다 with Python - ndb796 (나동빈님)
+- 누구나 자료 구조와 알고리즘 - <https://github.com/gilbutITbook/006981>
