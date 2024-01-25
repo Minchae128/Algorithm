@@ -9,9 +9,9 @@ public class Lv0_정수부분 {    public int solution(double flo) {
 }
 }
 
-// 문자열 -> 숫자 : Interger.parseInt(""); / Interger.valueOf("");
+// 문자열 -> 숫자 : Integer.parseInt(""); / Integer.valueOf("");
 // (int)"" -> 문자에서 숫자로
-// 숫자 -> 문자열 : Interger.toString(""); / Interger.valueOf("");
+// 숫자 -> 문자열 : Integer.toString(""); / Integer.valueOf("");
 //(char)"" -> 숫자에서 문자로
 
 //문자열 -> 문자 : String.valueOf();
