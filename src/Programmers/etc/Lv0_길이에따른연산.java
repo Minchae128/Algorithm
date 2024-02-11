@@ -6,13 +6,15 @@ public class Lv0_길이에따른연산 {
 
         if (11 <= num_list.length) {
             for (int i = 0; i < num_list.length; i++) {
-                answer =+ num_list[i];
+                answer += num_list[i];
             }
         } else if (num_list.length <= 10) {
+            answer = 1;
             for (int j = 0; j < num_list.length; j++) {
-                answer = answer * num_list[j];
+                answer *= num_list[j];
             }
         }
         return answer;
     }
+
 }
